@@ -2,7 +2,7 @@
  * @Author: Evan Zuo v_wangxiangbo01@baidu.com
  * @Date: 2022-07-26 11:16:43
  * @LastEditors: Evan Zuo v_wangxiangbo01@baidu.com
- * @LastEditTime: 2022-07-26 17:16:53
+ * @LastEditTime: 2022-07-26 17:36:44
  * @FilePath: /initerviews/js/index.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -93,3 +93,21 @@ const newRes = res
     .groupBy(item => item.type)
     .exe()
 console.log(newRes)
+
+
+// {
+//     "type1": [{
+//         "name": "12",
+//         "age": 2,
+//         "type": "type1"
+//     }, {
+//         "name": "12",
+//         "age": 6,
+//         "type": "type1"
+//     }],
+//         "type2": [{
+//             "name": "12",
+//             "age": 9,
+//             "type": "type2"
+//         }]
+// }
