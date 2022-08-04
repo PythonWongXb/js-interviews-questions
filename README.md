@@ -15,7 +15,7 @@ js 基础
 - 箭头函数
 
 Javascript系列
-面试官：说说Javascript中的数据类型？区别？
+- (done) 面试官：说说Javascript中的数据类型？区别？
 面试官：Javscript数组的常用方法有哪些？
 面试官：Javascript字符串的常用方法有哪些？
 面试官：谈谈 Javascript 中的类型转换机制
@@ -28,7 +28,7 @@ Javascript系列
 面试官：谈谈this对象的理解
 面试官：JavaScript中执行上下文和执行栈是什么？
 面试官：说说JavaScript中的事件模型
-- （done）面试官：typeof 与 instanceof 区别
+- (done)面试官：typeof 与 instanceof 区别
 面试官：解释下什么是事件代理？应用场景？
 面试官：说说new操作符具体干了什么？
 面试官：ajax原理是什么？如何实现？
