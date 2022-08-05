@@ -30,7 +30,7 @@ Javascript系列
 面试官：说说JavaScript中的事件模型
 - (done)面试官：typeof 与 instanceof 区别
 面试官：解释下什么是事件代理？应用场景？
-面试官：说说new操作符具体干了什么？
+- (done)面试官：说说new操作符具体干了什么？
 面试官：ajax原理是什么？如何实现？
 面试官：bind、call、apply 区别？如何实现一个bind?
 面试官：说说你对正则表达式的理解？应用场景？
