@@ -18,7 +18,7 @@ Javascript系列
 - (done)面试官：说说Javascript中的数据类型？区别？
 - (done)面试官：Javscript数组的常用方法有哪些？
 - （unuse-half-done）面试官：Javascript字符串的常用方法有哪些？
-面试官：谈谈 Javascript 中的类型转换机制
+- (done)面试官：谈谈 Javascript 中的类型转换机制
 面试官：== 和 ===区别，分别在什么情况使用
 面试官：深拷贝浅拷贝的区别？如何实现一个深拷贝？
 面试官：说说你对闭包的理解
