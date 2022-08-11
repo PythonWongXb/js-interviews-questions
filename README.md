@@ -23,7 +23,7 @@ Javascript系列
 - (done)面试官：深拷贝浅拷贝的区别？如何实现一个深拷贝？
 - (done)面试官：说说你对闭包的理解
 - (done)面试官：说说你对作用域链的理解
-面试官：JavaScript原型，原型链 ? 有什么特点？
+- (done)面试官：JavaScript原型，原型链 ? 有什么特点？
 面试官：Javascript如何实现继承？
 面试官：谈谈this对象的理解
 面试官：JavaScript中执行上下文和执行栈是什么？
