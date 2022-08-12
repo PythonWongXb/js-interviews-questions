@@ -27,7 +27,7 @@ Javascript系列
 - (done)面试官：Javascript如何实现继承？
 - (done)面试官：谈谈this对象的理解
 -(done)面试官：JavaScript中执行上下文和执行栈是什么？
-面试官：说说JavaScript中的事件模型
+-(done)面试官：说说JavaScript中的事件模型
 - (done)面试官：typeof 与 instanceof 区别
 面试官：解释下什么是事件代理？应用场景？
 - (done)面试官：说说new操作符具体干了什么？
