@@ -49,3 +49,8 @@ Javascript系列
 - (done)面试官：如何实现上拉加载，下拉刷新？
 - (done)面试官：什么是单点登录？如何实现？
 - (done)面试官：web常见的攻击方式有哪些？如何防御？
+
+Vue3系列
+- (done)面试官：Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？
+- (done)面试官：Vue3.0 所采用的 Composition Api 与 Vue2.x 使用的 Options Api 有什么不同？
+- (done)面试官：用Vue3.0 写过组件吗？如果想实现一个 Modal你会怎么设计？
